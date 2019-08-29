@@ -1,0 +1,1 @@
+("7.4" racket ("1bd5bbecd2833659d334273258a1d1a49aa67236" . "350a115733ccbb3c9b95a8d501001a05e67f47f1") (collects #"myriad" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt") (collects #"scribble" #"manual" #"lang.rkt"))

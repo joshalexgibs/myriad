@@ -1,0 +1,1 @@
+("7.4" racket ("9cce80080f158eebb2c45758ac37f58cf70ec461" . "9a7715a1bcdb7cb27bfc6f8f44cf3cfcd38cb1a0") (collects #"2htdp" #"image.rkt") (collects #"myriad" #"myriad.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))
